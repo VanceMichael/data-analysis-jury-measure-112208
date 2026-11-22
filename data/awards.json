@@ -1,0 +1,30 @@
+[
+  {
+    "prize": "P1",
+    "track": "跨赛道",
+    "quota": "1",
+    "order": "1",
+    "release": "确认后"
+  },
+  {
+    "prize": "P2",
+    "track": "旅行",
+    "quota": "1",
+    "order": "2",
+    "release": "确认后"
+  },
+  {
+    "prize": "P3",
+    "track": "会展",
+    "quota": "1",
+    "order": "2",
+    "release": "确认后"
+  },
+  {
+    "prize": "P4",
+    "track": "酒店",
+    "quota": "1",
+    "order": "2",
+    "release": "确认后"
+  }
+]

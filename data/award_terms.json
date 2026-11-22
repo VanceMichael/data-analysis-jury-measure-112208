@@ -1,0 +1,20 @@
+[
+  {
+    "prize": "P1",
+    "overlap": "接受后释放单赛道",
+    "confirm_within": "48",
+    "unset_rule": "待共同评议"
+  },
+  {
+    "prize": "P2",
+    "overlap": "与P1不可兼领",
+    "confirm_within": "48",
+    "unset_rule": "保留"
+  },
+  {
+    "prize": "P3",
+    "overlap": "与P1不可兼领",
+    "confirm_within": "48",
+    "unset_rule": "保留"
+  }
+]

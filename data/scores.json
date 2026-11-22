@@ -1,0 +1,92 @@
+[
+  {
+    "entry": "E1",
+    "judge": "J1",
+    "round": "1",
+    "method": "盲",
+    "design": "88",
+    "version": "1",
+    "shared": "yes"
+  },
+  {
+    "entry": "E1",
+    "judge": "J2",
+    "round": "1",
+    "method": "盲",
+    "design": "81",
+    "version": "1",
+    "shared": "yes"
+  },
+  {
+    "entry": "E2",
+    "judge": "J1",
+    "round": "1",
+    "method": "盲",
+    "design": "86",
+    "version": "1",
+    "shared": "yes"
+  },
+  {
+    "entry": "E2",
+    "judge": "J2",
+    "round": "1",
+    "method": "盲",
+    "design": "80",
+    "version": "1",
+    "shared": "yes"
+  },
+  {
+    "entry": "E3",
+    "judge": "J1",
+    "round": "1",
+    "method": "盲",
+    "design": "90",
+    "version": "1",
+    "shared": "no"
+  },
+  {
+    "entry": "E4",
+    "judge": "J2",
+    "round": "1",
+    "method": "盲",
+    "design": "82",
+    "version": "1",
+    "shared": "no"
+  },
+  {
+    "entry": "E5",
+    "judge": "J3",
+    "round": "1",
+    "method": "盲",
+    "design": "92",
+    "version": "1",
+    "shared": "no"
+  },
+  {
+    "entry": "E4",
+    "judge": "J1",
+    "round": "2",
+    "method": "明",
+    "design": "92",
+    "version": "1",
+    "shared": "no"
+  },
+  {
+    "entry": "E6",
+    "judge": "J1",
+    "round": "1",
+    "method": "盲",
+    "design": "87",
+    "version": "1",
+    "shared": "no"
+  },
+  {
+    "entry": "E7",
+    "judge": "J2",
+    "round": "1",
+    "method": "盲",
+    "design": "81",
+    "version": "1",
+    "shared": "no"
+  }
+]

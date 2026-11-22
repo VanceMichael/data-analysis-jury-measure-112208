@@ -1,0 +1,14 @@
+[
+  {
+    "entry": "E1",
+    "prize": "P2",
+    "version": "1",
+    "state": "已接受"
+  },
+  {
+    "entry": "E2",
+    "prize": "P1",
+    "version": "1",
+    "state": "待接受"
+  }
+]
