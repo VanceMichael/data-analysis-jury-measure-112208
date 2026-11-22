@@ -12,6 +12,8 @@
 - `awards.json` 记录字段为 `prize`、`track`、`quota`、`order`、`release`。
 - `decisions.json` 记录字段为 `entry`、`prize`、`version`、`state`。
 - `award_terms.json` 记录字段为 `prize`、`overlap`、`confirm_within`、`unset_rule`。
+- `judge_availability.json` 记录字段为 `judge`、`round`、`language`、`slots`、`edition`。
+- `answer_records.json` 记录字段为 `prize`、`entry`、`at`、`answer`、`state`。
 
 ## 运行
 

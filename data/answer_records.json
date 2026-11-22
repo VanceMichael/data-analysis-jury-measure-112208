@@ -1,0 +1,30 @@
+[
+  {
+    "prize": "P1",
+    "entry": "E2",
+    "at": "33",
+    "answer": "接受",
+    "state": "先前有效"
+  },
+  {
+    "prize": "P3",
+    "entry": "E4",
+    "at": "36",
+    "answer": "接受",
+    "state": "基于P1释放"
+  },
+  {
+    "prize": "P2",
+    "entry": "E1",
+    "at": "35",
+    "answer": "接受",
+    "state": "独立答复"
+  },
+  {
+    "prize": "P1",
+    "entry": "E2",
+    "at": "41",
+    "answer": "复议",
+    "state": "待确认"
+  }
+]

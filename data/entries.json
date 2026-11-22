@@ -47,5 +47,19 @@
     "school": "S7",
     "lang": "英",
     "edition": "V1"
+  },
+  {
+    "entry": "E8",
+    "track": "酒店",
+    "school": "S8",
+    "lang": "泰",
+    "edition": "V2"
+  },
+  {
+    "entry": "E9",
+    "track": "会展",
+    "school": "S9",
+    "lang": "双语",
+    "edition": "V1"
   }
 ]

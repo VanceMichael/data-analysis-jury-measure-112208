@@ -88,5 +88,32 @@
     "design": "81",
     "version": "1",
     "shared": "no"
+  },
+  {
+    "entry": "E8",
+    "judge": "J3",
+    "round": "1",
+    "method": "盲",
+    "design": "85",
+    "version": "2",
+    "shared": "no"
+  },
+  {
+    "entry": "E9",
+    "judge": "J2",
+    "round": "1",
+    "method": "盲",
+    "design": "83",
+    "version": "1",
+    "shared": "yes"
+  },
+  {
+    "entry": "E9",
+    "judge": "J4",
+    "round": "1",
+    "method": "盲",
+    "design": "84",
+    "version": "1",
+    "shared": "yes"
   }
 ]

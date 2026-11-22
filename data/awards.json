@@ -26,5 +26,12 @@
     "quota": "1",
     "order": "2",
     "release": "确认后"
+  },
+  {
+    "prize": "P5",
+    "track": "会展",
+    "quota": "1",
+    "order": "3",
+    "release": "符合保留条件"
   }
 ]

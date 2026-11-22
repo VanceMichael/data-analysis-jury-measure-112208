@@ -16,5 +16,11 @@
     "overlap": "与P1不可兼领",
     "confirm_within": "48",
     "unset_rule": "保留"
+  },
+  {
+    "prize": "P5",
+    "overlap": "与P1不可兼领",
+    "confirm_within": "24",
+    "unset_rule": "低于84关闭"
   }
 ]

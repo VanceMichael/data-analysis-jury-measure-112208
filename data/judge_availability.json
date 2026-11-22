@@ -1,0 +1,30 @@
+[
+  {
+    "judge": "J1",
+    "round": "3",
+    "language": "中",
+    "slots": "1",
+    "edition": "V1"
+  },
+  {
+    "judge": "J2",
+    "round": "3",
+    "language": "英",
+    "slots": "1",
+    "edition": "V1"
+  },
+  {
+    "judge": "J4",
+    "round": "3",
+    "language": "中+英",
+    "slots": "2",
+    "edition": "V1"
+  },
+  {
+    "judge": "J5",
+    "round": "3",
+    "language": "中+英",
+    "slots": "1",
+    "edition": "V1"
+  }
+]
