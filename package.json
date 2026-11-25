@@ -8,6 +8,12 @@
   },
   "scripts": {
     "test": "node --test",
-    "data:check": "node --test test/data.test.js"
+    "data:check": "node --test test/data.test.js",
+    "season:report": "node src/cli.js report",
+    "season:check": "node src/cli.js check",
+    "season:plan": "node src/cli.js plan",
+    "season:seats": "node src/cli.js seats",
+    "season:why": "node src/cli.js why",
+    "season:equating": "node src/cli.js equating"
   }
 }
